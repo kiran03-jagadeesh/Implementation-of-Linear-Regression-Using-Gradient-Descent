@@ -65,7 +65,10 @@ plt.show()
 ```
 
 ## Output:
+###Plotting Linear Regression Graph:
  ![image](https://user-images.githubusercontent.com/94174536/165231887-466c662d-7b91-447f-a3aa-6489550d1028.png)
+###Plotting Gradient Descent Graph:
+ ![image](https://user-images.githubusercontent.com/94174536/165232253-cbe2c572-2183-48e0-a6a1-edc43243165f.png)
 
 
 ## Result:
