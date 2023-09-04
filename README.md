@@ -1,4 +1,4 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
+# Implementation of Linear Regression Using Gradient Descent
 
 ## AIM:
 To write a program to implement the linear regression using gradient descent.
